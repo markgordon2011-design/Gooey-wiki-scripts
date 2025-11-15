@@ -45,7 +45,9 @@ csrf_token = res.json()["query"]["tokens"]["csrftoken"]
 # Step 4: Define page content
 page_title = "TEST"   # Replace with the page you want to edit
 
-page_content = """
+page_content ="""
+
+[[File:./images/Nogginsworth.jpg|thumb|right|An example image]]
 == Description ==
 This is the description section.
 
