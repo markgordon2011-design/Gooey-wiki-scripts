@@ -1,0 +1,40 @@
+<mainpage-leftcolumn-start />
+<div style="text-align: center; padding: 1em;"><span style="color:#54bc7f;;font-size:34px;font-family:Cinzel;">'''Welcome, Friends, to the Sticky Wiki!'''</span></div>
+
+<div style="text-align: center;><span style=color:#54bc7f;;font-size:24px;font-family:Cinzel;">A repository of knowledge for Gooey Cube's world of Zyathé.</span></div>
+
+
+We're a collaborative community website about {{topic}} that anyone, including you, can build and expand. Wikis like this one depend on readers getting involved and adding content. Please read [[Gooey Cube Wiki:Wiki rules|OUR WIKI RULES]] before contributing.
+
+Gooey Cube is a small, third-party TTRPG company. They create content compatible with 5e. Their primary focus at Gooey Cube has always been to empower Gamemasters to run the best game possible. To fulfill this goal, they launched their flagship campaign, Red Star Rising with all the tools needed to run an enthralling game, innovatively designed to save GMs hours of session preparation. An incredible story meets clever game design, all packed into a magnificent box. Check out [https://shop.gooeycube.com/product/the-darkest-dream-chapter-1-of-the-red-star-rising-campaign/ THE STORE] and explore everything that comes in the box, we are sure you will be amazed!
+
+As well, Gooey Cube creates books of lore called Cyclopaedias, which explain everything you need to know about the world of Zyathé - a cursed world which was first created by AvovA, who spoke into existence All Things. However, four other things were created, which He did not intend. The Lords of Corruption. Through vile schemes, the four entities brought about the death of AvovA, and the corruption of the Eterniverse's magic. Though the four were imprisoned by AvovA before his death, they kept scheming... eventually bringing about the Woe of Ruin, the second cataclysm to wreak havoc upon the Life World. Now, many centuries after the Woe, civilization has rebuilt itself, yet the four still whisper in the darkness... Read more in the marvellous Cyclopaedia Volume 1: The Wy'rded World, found [https://shop.gooeycube.com/product/zyathe-the-wyrded-world-chapter-1-of-the-cyclopaedia-zyathica/ HERE]. 
+
+==Items of Interest==
+<gallery position="center" captionalign="center" navigation="true">
+File:Placeholder|link=[[Gooey Cube Wiki:Wiki rules]]| [[Our Wiki Rules]] 
+File:Placeholder|link=[[Submission Forms]] 
+File:Placeholder|link=[[TEST]]|[[TEST]] 
+File:VerdestiaMap Final.png|link=https://gooey-cube.fandom.com/wiki/Map:Verdestia| [[West Verdestia]]
+File:Placeholder|link=[[Products]] 
+File:Placeholder|link=[[Meet the Team]] 
+</gallery>
+<!-- The gallery above works well for individual articles, but it would also be good to have another below it that points to important Category: pages. -->
+<mainpage-endcolumn />
+
+<mainpage-rightcolumn-start />
+''Need help building out this community?''
+
+*[[Project:Wiki rules|Our Wiki Rules]]
+*[[w:c:community:Help:Getting Started|Getting Started]]
+*[[w:c:community:Help:Contributing|How to Contribute]]
+*[[w:c:community:Help:Community Management|Managing your new community]]
+*[[w:c:community:Help:Contents|Guides]]
+*[[w:c:community:Help:Index|All Help articles]]
+
+You can also be part of the larger Fandom family of communities. Visit [[w:c:community|Fandom's Community Central]]!
+
+
+
+<mainpage-endcolumn />
+[[Category:{{SITENAME}}]]

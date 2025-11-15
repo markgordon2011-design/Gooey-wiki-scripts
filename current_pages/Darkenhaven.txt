@@ -1,0 +1,92 @@
+
+== '''Darkenhaven (Zyathé)''' ==
+
+==== '''Description''' ====
+Darkenhaven is the capital of the Republic of Zyranthea and one of the most populous and influential cities in West Verdestia. Built upon the ruins of the Ethernic city of Twining Falls, it has grown into a thriving metropolis known for its economic power, military strength, and deep cultural diversity. The city stands atop the Blackshoals, a series of dark cliffs overlooking Darksilver Bay, making it highly defensible from sea-based attacks. The '''Gloomport''', a vast underground harbor, serves as the heart of Darkenhaven’s maritime trade and security​.
+
+Darkenhaven is home to a dense and varied population, estimated at '''92,800 in the upper city''', with an additional '''65,000 residing in the Gloomport''', making it one of the largest cities in Verdestia. Its diverse districts range from the aristocratic '''Highgarden''' to the bustling markets of '''Cobbleston''', creating a cityscape that blends opulence with grit​.
+
+==== '''Government and Military''' ====
+Darkenhaven is the political heart of the Republic of Zyranthea, housing the '''Republican Senate''' and the '''Republican Mint''' on '''Governor’s Isle'''. The city’s government operates as part of a broader republican structure, with elected officials managing trade, law, and defense.
+
+The city’s military strength is formidable, bolstered by:
+
+* '''The Lancers’ Guild''' – A powerful mercenary force headquartered in the House of Swords.
+* '''The Republican Navy''' – Docked primarily within the Gloomport, responsible for protecting Verdestian trade routes.
+* '''The Watchmen of Darkenhaven''' – A city-wide peacekeeping force maintaining law and order, particularly in volatile districts​.
+
+==== '''Economy and Trade''' ====
+Darkenhaven is an economic powerhouse, acting as a trade hub that connects various regions of Zyathé. Due to its strategic location at the intersection of the '''Mystrune River''' and '''Darksilver Bay''', it dominates regional commerce.
+
+Key economic sectors include:
+
+* '''Mining & Metalwork''' – The city controls multiple mines outside its borders, producing high-demand minerals.
+* '''Arcane Research & Artificitry''' – Darkenhaven University and independent scholars fuel innovation in magical artifacts and alchemy.
+* '''Shipbuilding & Maritime Trade''' – The Gloomport’s shipyards produce some of the most well-crafted vessels in the region.
+* '''Agricultural Imports''' – Darkenhaven subsidizes nearby farmlands, ensuring a steady influx of grain, livestock, and raw materials​.
+
+==== '''Population and Demographics''' ====
+
+==== Darkenhaven’s cosmopolitan nature makes it one of the most culturally diverse locations in Zyathé. It is home to: ====
+
+* '''Humans (Homineri) – 35%'''
+* '''Myruun – 20%'''
+* '''Halflings – 10%'''
+* '''Dwarves – 8%'''
+* '''Gnomes – 7%'''
+* '''Half-Elves – 6%'''
+* '''Sarth – 5%'''
+* '''Other races (Wood Elves, Soflings, Aethyrians, etc.) – 9%'''
+
+Each district tends to have its own cultural identity, with different racial communities settling into areas that reflect their backgrounds​.
+
+==== '''Crime and Law Enforcement''' ====
+While Darkenhaven’s Watchmen maintain order, crime remains an issue, especially in the lower levels of the city and the Gloomport. Infamous underground groups include:
+
+* '''The Hand of Shadows''' – A feared criminal syndicate operating in the Gloomport.
+* '''The Silver Knives''' – A group of aristocratic spies and assassins rumored to operate from Highgarden.
+
+==== '''Towns/Cities (Districts of Darkenhaven)''' ====
+Darkenhaven is divided into several distinct wards, each serving a different function within the city. While some districts are defined by wealth and influence, others are centers of commerce, industry, or religious significance.
+
+* '''Bayweather (The Bluffs or Bayside)''' – A prestigious residential area home to wealthy merchants and lesser nobility. Its well-manicured streets and seaside estates contrast sharply with the rougher districts of the city.
+* '''Bu’uggerton (Boogertown or The Bu’ug)''' – A poorer section of the city, infamous for its unpleasant smells due to the waste-processing facilities and alchemical purifiers located here.
+* '''Cobbleston (Wester Square)''' – A bustling hub of trade, crafts, and commerce, where skilled artisans and merchants sell their wares.
+* '''Coliseum District''' – Centered around Darkenhaven’s massive stadium, this district is filled with entertainment venues, gladiatorial training grounds, and various diversions for the city’s populace.
+* '''Fishertown''' – Located outside the city walls along the Mystrune River, this district supplies much of Darkenhaven’s fresh fish and seafood.
+* '''The Gloomport (Dunharbor or Dunport)''' – A vast underground port located beneath the city, serving as Darkenhaven’s primary harbor and a center of trade, smuggling, and maritime intrigue.
+* '''The Godsward''' – The spiritual heart of Darkenhaven, where most of the city’s major temples and religious institutions are located.
+* '''Governor’s Isle (The Castles or Mystrune Island)''' – Situated in the Mystrune River, this district houses the Republic’s government buildings, military headquarters, and major political factions.
+* '''Highgarden (Northsward or Snobb Hill)''' – The district of noble estates, private academies, and high-end boutiques catering to Darkenhaven’s elite.
+* '''Middentown (Tradeston or Tradesward)''' – A mixed district of industry, commerce, and working-class residences, with a major passage leading into the Gloomport.
+* '''Riverside (University Village or Easton)''' – The district surrounding Darkenhaven University, home to students, professors, and those providing services to the academic community.
+* '''Scrivner’s Square (Quillsville)''' – A center of legal and scholarly pursuits, housing barristers, scribes, bookshops, publishers, and printing presses​.
+
+==== '''Places of Interest''' ====
+Darkenhaven is a city of intrigue, trade, and arcane mastery, boasting several key locations of interest. '''The Gloomport''', its vast underground harbor, serves as a hub for both commerce and clandestine dealings. '''Darkenhaven University''' is the Republic’s premier institution for arcane studies, drawing scholars from across Verdestia. The '''Grand Coliseum''' hosts gladiatorial combats and grand spectacles, while the '''House of Swords''', home to the Lancers’ Guild, stands as a bastion of martial prowess. For culture and entertainment, the '''Laran & Larkspur Theatre''' stages performances that captivate nobles and commoners alike.
+
+* '''The Gloomport''' – The vast underground harbor beneath Darkenhaven.
+* '''Darkenhaven University''' – The Republic’s most renowned arcane and scholarly institution.
+* '''The Grand Coliseum''' – The city's major arena for combat and public events.
+* '''The House of Swords''' – The headquarters of the Lancers’ Guild, a major military force in Darkenhaven.
+* '''Laran & Larkspur Theatre''' – A center for high-end performances and political intrigue.
+
+==== '''History''' ====
+Darkenhaven was built upon the ruins of Twining Falls, an ancient Ethernic city destroyed during the Woe of Ruin. The survivors of the disaster sought refuge in the underground harbor that would become the Gloomport. Over centuries, the settlement grew into a major political and economic power. The city played a pivotal role in the formation of the Republic of Zyranthea, acting as a central force in unifying the region against external threats.
+
+==== '''Lore/Rumors''' ====
+
+* '''The Lost Archives''' – Whispers tell of a hidden vault beneath Darkenhaven University containing forbidden Ethernic knowledge.
+* '''The Curse of the Gloomport''' – Some sailors claim that the underground harbor is haunted by spirits of the drowned.
+* '''The Hand of Shadows''' – A secretive guild rumored to pull the strings of Darkenhaven’s political elite.
+
+==== '''Appearances''' ====
+Darkenhaven is a primary setting in numerous Zyathé storylines, particularly in political and intrigue-based campaigns. It is frequently referenced in modules involving the Republic of Zyranthea and the struggle between different factions vying for power.
+
+==== '''Adventures''' ====
+
+*
+
+==== '''References''' ====
+
+* ''Darkenhaven Book 1'' – A comprehensive guide covering the city’s history, districts, and factions.

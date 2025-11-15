@@ -1,0 +1,41 @@
+
+=== '''West Verdestia (Zyathé)''' ===
+
+==== '''Description''' ====
+West Verdestia, commonly called ''the Wesverd'' by its inhabitants, is a vast and diverse landmass in the western half of the continent of Verdestia. It is characterized by sweeping plains, ancient forests, towering mountain ranges, and dangerous, untamed wilds. The region experiences cold winters in the north and temperate climates in the south, with heavy snowfall and rainfall shaping much of its terrain. The land is divided into various sovereignties, some of which are in constant conflict, making it a place of both opportunity and peril for adventurers.
+
+==== '''Towns/Cities''' ====
+
+* '''Darkenhaven''' – The largest and most influential city, serving as the capital of the Republic of Zyranthea.
+* '''Trundadelve''' – A major dwarven stronghold nestled within the Wyrmrest Mountains.
+* '''Wavecrest''' – A thriving port city known for its naval trade and occasional piracy.
+* '''Havensdon''' – A fortified city protecting the Republic’s northern border.
+* '''Ponder’s Keep''' – A decaying Andvallan fortress on the Republic’s southern border, now more of a trading hub than a military outpost.
+
+==== '''Places of Interest''' ====
+
+* '''Wyrmrest Mountains''' – A massive mountain range home to dwarven clans and hidden dangers.
+* '''Mount Nefrious''' – A lightning-wreathed peak rumored to house remnants of lost Ethernic magic.
+* '''The Vile Desolation''' – A cursed wasteland ruled by the undead Lich [[Lord Kalnovich]].
+* '''Felblight Forest''' – A twisted and corrupted woodland filled with lurking horrors.
+* '''Blueshine Archipelago''' – A chain of islands inhabited by pirates, exiles, and Myruun traders.
+
+==== '''History''' ====
+West Verdestia was once part of a unified Verdestia before the Woe of Ruin, a cataclysm that shattered the land and created the Shrouded Sea, splitting the continent in two. Since then, the region has been plagued by ongoing conflicts, including invasions by the Orokonoids of Magdronog and struggles between independent sovereignties. The formation of the Republic of Zyranthea roughly 200 years ago brought some stability, but war remains an ever-present threat.
+
+==== '''Lore/Rumors''' ====
+
+* The ruins beneath Darkenhaven are said to hold remnants of lost Ethernic knowledge.
+* Some believe the Shrouded Sea was not created naturally but as the result of an ancient magical disaster.
+* A hidden order of spellcasters, rumored to operate from Mount Nefrious, may still wield lost Ethernic magics.
+
+==== '''Appearances''' ====
+West Verdestia is central to numerous Gooey Cube campaigns, particularly those set in the Republic of Zyranthea and Darkenhaven. It is frequently referenced in geopolitical conflicts and is a major setting for adventurers seeking fame and fortune.
+
+==== '''Adventures''' ====
+
+*
+
+==== '''References''' ====
+
+* ''West Verdestia Book (Cyclopaedia Zyathica, Volume 2)'' – Covers the geography, history, and politics of the Wesverd.

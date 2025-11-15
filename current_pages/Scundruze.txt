@@ -1,0 +1,26 @@
+
+=== '''Scundruze (Race) – Zyathé''' ===
+
+==== '''Description''' ====
+The Scundruze are an eerie and enigmatic race, physically distinct with their thin, bony bodies covered in stretched, grayish skin. They possess skull-like faces with deep-set, pupilless blue eyes and lack both ears and noses. Their mouths are framed by nearly nonexistent lips, exposing their long teeth at all times. This cadaverous appearance often leads outsiders to mistake them for undead, but they are, in fact, fully living beings.
+
+==== '''Personality''' ====
+The Scundruze are pragmatic and intensely disciplined, shaped by their unique origins and their connection to death. They are not driven by malice but rather by a cold, calculated sense of purpose. While they do not generally engage in overt cruelty, their detachment from conventional morality makes them difficult for outsiders to understand. They possess a deep reverence for souls and treat the process of reincarnation with utmost seriousness.
+
+==== '''Abilities''' ====
+The Scundruze are masters of necromantic soul manipulation. Unlike typical necromancers, who raise the soulless undead, the Scundruze excel in transferring, editing, and preserving souls, ensuring their passage into new vessels. This ability allows them to reincarnate within crafted bodies, effectively giving them multiple lifetimes. Clerics of Mal’uthuk and soul-wielding arcanists form the backbone of their ruling class.
+
+==== '''Society''' ====
+The Scundruze are a theocratic society ruled by the '''Cabal''' and the '''Grey Mothers''', powerful leaders who oversee soul transitions and the preservation of Scundruze lineage. They abide by rigid laws that prohibit raising the soulless undead, as such creations are considered an abomination to their kind. They reside in the heavily fortified and fog-covered island nation of '''Shardengloom''', where they conduct limited trade with the outside world but allow few visitors beyond designated areas.
+
+==== '''Biology''' ====
+Scundruze do not reproduce naturally; instead, they create vessels—bodies infused with souls harvested from those at the moment of death. Over time, two opposing factions, the '''Soul Beggars''' and the '''Knives of the Grey Mothers''', arose in response to their dwindling numbers. The former persuade the dying to transition into Scundruze bodies willingly, while the latter forcibly harvests souls, fueling their race’s continuation through more sinister means.
+
+==== '''History''' ====
+The Scundruze were created by '''Mal’uthuk, the god of the dead''', in defiance of the divine edicts that forbade him from making a race of his own. Rather than forming new souls, he captured those crossing the Bridge of the Dead and placed them into specially crafted vessels, thus bringing the Scundruze into existence. Though other gods objected, they allowed the race to persist, leading to the formation of their isolated nation on Shardengloom.
+
+==== '''References''' ====
+
+* '''West Verdestia Book, Normal Edition''' – Details on Scundruze origins, appearance, and social structure.
+* '''Magicka Volume 1, Normal Edition''' – Information on their necromantic abilities and soul manipulation.
+* '''East Verdestia Book, Normal Edition''' – Insights into Scundruze society, reproduction, and religious influences.

@@ -1,0 +1,36 @@
+
+=== '''Ablume (Zyathé)''' ===
+
+==== '''Description''' ====
+Ablume is the vast, frozen expanse that covers the northern pole of Zyathé. While its coastal regions share some climate characteristics with Nordrukka, the interior quickly turns into an almost featureless icy wasteland. The terrain is largely barren, with relentless, frigid gales sweeping across the landscape. Snowfall is relatively rare, as most precipitation remains frozen in deep layers of ice, sometimes several miles thick. A few mountain ranges punctuate the otherwise desolate landscape.
+
+==== '''Towns/Cities''' ====
+Ablume has no major cities, as its extreme climate makes permanent settlement difficult. However, small human fishing villages can be found along the rocky coast. Additionally, nomadic groups, such as the Wisann Danth—a clan of Aethyrians—move through the southern edges of the region. Outcast Orokonoid warbands and Myruun supply depots are also scattered throughout the area.
+
+==== '''Places of Interest''' ====
+
+* '''Bloodpine Forest''' – A hauntingly unnatural woodland in the south of Ablume, where towering trees bleed red sap. This cursed forest is home to demonic and abyssal forces warring over the ruins of an Ethernic sky city. Corrupt magic saturates the area, twisting its inhabitants into horrific aberrations.
+* '''Hidden Valleys''' – Some rare, magically protected valleys within Ablume offer shelter from the worst of the cold, allowing for brief periods of agriculture during the short three-month growing season.
+
+==== '''History''' ====
+Ablume has remained largely unexplored due to its inhospitable conditions. Legends speak of lost Ethernic ruins buried beneath its ice sheets, perhaps holding remnants of powerful magical artifacts. However, few who venture into the continent’s interior return, and those who do often speak of strange visions and encounters with entities beyond mortal understanding.
+
+==== '''Lore/Rumors''' ====
+
+* It is rumored that an ancient arcane nexus lies buried deep within Ablume, a source of immense magical energy that might predate even the Woe of Ruin.
+* Stories tell of a lost tribe of white-haired humanoids living in the deepest tundras, hidden from all but the most determined explorers. Few, however, have ever provided proof of their existence.
+* Some claim that a gateway to the Underdelve exists beneath the ice, a passage leading to horrors that have never seen the light of day.
+
+==== '''Appearances''' ====
+Ablume is primarily mentioned in lorebooks detailing the geography of Zyathé, particularly in relation to the myths of lost Ethernic knowledge and hidden horrors beneath the ice.
+
+==== '''Adventures''' ====
+
+* '''Expedition to the Icebound Vault''' – A group of scholars hires the adventurers to search for a buried Ethernic ruin, rumored to contain forbidden knowledge.
+* '''The Bloodpine War''' – A demonic incursion in the Bloodpine Forest threatens to spill into the sea. The adventurers must navigate the abyssal conflict while searching for the source of the corruption.
+* '''Survivors of the Tundra''' – A frostbitten traveler stumbles into civilization, raving about a hidden city beneath the ice. His tale sends adventurers on a harrowing journey into the continent’s uncharted depths.
+
+==== '''References''' ====
+
+* ''Wy’rded World Guide'' – Geography section detailing Ablume.
+* ''Magicka Volume 1'' – Description of the Bloodpine Forest and its corrupted magic.

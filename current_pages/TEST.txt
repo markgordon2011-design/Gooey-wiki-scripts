@@ -1,0 +1,18 @@
+
+== Description ==
+This is the description section.
+
+== History ==
+Details about history go here.
+
+== Abilities ==
+List of abilities.
+
+== Archetypes ==
+Archetype information.
+
+== Notable Agents ==
+Important agents listed here.
+
+== References ==
+<references />

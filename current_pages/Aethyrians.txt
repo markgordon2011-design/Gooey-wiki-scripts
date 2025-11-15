@@ -1,0 +1,69 @@
+=== '''Aethyrians in the World of Zyathé''' ===
+[[File:A_zyfaens-female3.png|thumb|An Aethyrian female.]]The '''Aethyrians''', also known as the '''A’zyfrenea''', are a race of '''fleet-footed, wind-touched nomads''' created through the divine efforts of '''Glastria, the Lady of the Four Winds''', and '''Zyphrea, the Elemental Goddess of Air'''. Revered for their '''innate connection to the skies''', they are often referred to as '''Windweavers''', reflecting their ability to subtly influence air currents. The Aethyrians primarily reside in '''Estrenia''', where they have developed a unique '''semi-nomadic urban culture''', moving their grand cities as dictated by the '''winds and seasons'''.
+----
+
+== '''Description''' ==
+Aethyrians are '''graceful and lean''', standing around '''five to six feet tall''', with '''slender, willowy builds'''. They possess '''soft, fine facial features''', with '''hair, skin, and eyes in shades of pale blue, silvery white, and violet''', evoking their '''airborne heritage'''. Their clothing consists of '''thin, flowing silks''' that allow for '''freedom of movement''', even in colder climates. These garments, often dyed in '''cool colors''', highlight their affinity for the '''sky and wind'''.
+
+Unlike many other cultures, Aethyrians '''eschew tattoos and body markings''', preferring to adorn themselves with '''silver and blue mithril jewelry'''.
+----
+
+== '''Personality''' ==
+Aethyrians embody a '''duality of nature'''. Initially, they were '''carefree wanderers''', embracing the '''capricious, free-flowing nature of the wind'''. However, after being placed under the guardianship of '''Soveighn, the Lightbringer''', their society adopted a '''rigid sense of honor, duty, and hierarchy'''.
+
+Honor plays a '''central role''' in Aethyrian life—one’s status is determined by their '''adherence to social expectations'''. This has led to a '''strictly Lawful''' societal structure, though individuals with '''Chaotic tendencies''' do exist, often becoming '''outcasts or wanderers'''.
+
+Aethyrians are '''highly disciplined and pragmatic''', often '''calm and composed''', but those who fail in their duties are deeply '''shamed'''. Some choose to redeem themselves through '''dangerous or sacrificial acts''', such as working in the hazardous '''Flowmount mines'''.
+----
+
+== '''Abilities''' ==
+Aethyrians possess several unique abilities that reflect their '''wind-aligned nature''':
+
+* '''Fleet-Footed:''' Their '''base walking speed is 40 feet''', allowing them to '''traverse great distances with ease'''.
+* '''Windweaver Magic:''' They have an '''innate connection to air''', enabling them to create minor wind effects and, at higher levels, '''cast Gust of Wind'''.
+* '''Disciplined Mind:''' Due to their rigorous upbringing, Aethyrians gain '''a +1 bonus to all saving throws'''.
+* '''Haggler’s Instinct:''' As skilled traders, they can '''negotiate better prices''', selling goods for '''60% instead of 50% of base value'''.
+
+----
+
+== '''Society''' ==
+Aethyrian society is structured around '''matriarchal leadership''', with lineage traced through the '''mother’s family'''. Their rulers, known as '''D’myazé Azal''', are '''noblewomen''' who govern '''itinerant cities''' that move '''across the great Estrenian plains'''.
+
+=== '''Urban Nomadism''' ===
+Aethyrians have '''movable cities''', which they transport to different locations '''based on environmental and economic conditions'''. These '''mobile metropolises''' are meticulously planned, built along '''grid patterns''' that maximize '''efficiency and social order'''.
+
+=== '''Commerce and Trade''' ===
+Aethyrians are known as '''master traders''', their influence spanning '''Estrenia and beyond'''. Their '''woven irongrass baskets''' serve as a '''standardized unit of measurement''', and they are famous for '''skyships'''—magical vessels capable of '''floating across vast distances'''.
+
+Despite their '''strict hierarchy''', Aethyrians maintain an '''egalitarian approach to skill-based roles''', where '''merit and honor''' dictate an individual’s standing more than '''birthright'''.
+----
+
+== '''Biology''' ==
+Aethyrians have '''lifespans similar to Humans''', typically living '''just over a century'''. They '''mature quickly''', with childhood being a '''period of rapid education and responsibility''' rather than frivolous play.
+
+While they are '''biologically similar to Humans''', their '''elemental heritage''' gives them an '''unusual resilience to extreme winds and high altitudes''', making them particularly adept at '''surviving in mountainous and open plains environments'''.
+----
+
+== '''History''' ==
+
+=== '''Divine Origins''' ===
+The Aethyrians were created by '''Glastria''' with the aid of '''Zyphrea, the Elemental Goddess of Air'''. Their '''graceful movement and affinity for wind''' were gifts from Zyphrea, while Glastria imbued them with '''cunning and adaptability'''.
+
+Later, when '''a great cataclysm shook the world''', Glastria placed the Aethyrians under the protection of '''Soveighn, the Lightbringer'''. His influence reshaped their '''carefree nature into a rigidly honor-bound culture''', instilling a '''sense of duty and structure''' that persists to this day.
+
+=== '''Conflicts and Expansion''' ===
+Aethyrians have faced '''numerous conflicts''' throughout history, particularly against the '''Shonnakuzza Imperium''' and the '''Ogre-Magi of Voolamad'''. They also '''guard the Flowmount''', a '''volcanic region rich in Flowstones''', considered one of their '''greatest resources and most dangerous assets'''.
+
+=== '''Modern Era''' ===
+Today, Aethyrians continue to be '''one of the most enigmatic peoples of Zyathé''', known for their '''floating cities, trading prowess, and mastery of wind magic'''. While they remain '''deeply tied to their homeland''', many Aethyrians '''travel the world as merchants, scholars, and adventurers''', bringing their '''unmatched speed and cunning''' to all corners of the world.
+----
+
+== '''References''' ==
+
+# ''Wy'rded World Guide'' - Aethyrians: Origins and Society.
+# ''Wy'rded World Guide'' - Aethyrian Abilities and Physical Traits.
+# ''Wy'rded World Guide'' - Aethyrian Commerce and Trade.
+# ''Magicka Vol 1'' - Aethyrians and the Flowmount.
+:;
+::
+:;
