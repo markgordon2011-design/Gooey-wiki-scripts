@@ -1,13 +1,16 @@
 import requests
 import json
+import os
+import re
+import sys
 
 # --- Load configuration from external file (JSON) ---
 with open("config.json") as f:
     config = json.load(f)
 
 API_URL = config["API_URL"]      # e.g. "https://yourwiki.fandom.com/api.php"
-USERNAME = config["USERNAME"]    # your Fandom username
-PASSWORD = config["PASSWORD"]    # your Fandom password
+USERNAME = config["USERNAME"]    # your Fandom username (or BotPassword username)
+PASSWORD = config["PASSWORD"]    # your Fandom password (or BotPassword password)
 
 # --- Start session ---
 session = requests.Session()
@@ -42,40 +45,59 @@ params = {
 res = session.get(url=API_URL, params=params)
 csrf_token = res.json()["query"]["tokens"]["csrftoken"]
 
-# Step 4: Define page content
-page_title = "TEST"   # Replace with the page you want to edit
+# --- Read page content from file specified on command line ---
+if len(sys.argv) < 2:
+    print("Usage: python script.py <input_file>")
+    sys.exit(1)
 
-page_content ="""
+input_file = sys.argv[1]
 
-[[File:./images/Nogginsworth.jpg|thumb|right|An example image]]
-== Description ==
-This is the description section.
+with open(input_file, "r", encoding="utf-8") as f:
+    page_content = f.read()
 
-== History ==
-Details about history go here.
+# --- Derive page title from input filename (without extension) ---
+page_title = os.path.splitext(os.path.basename(input_file))[0]
 
-== Abilities ==
-List of abilities.
+# --- Find all [[File:...]] references ---
+file_pattern = r"
 
-== Archetypes ==
-Archetype information.
+\[
 
-== Notable Agents ==
-Important agents listed here.
+\[File:(.+?)(\|.*)?\]
 
-== References ==
-<references />
+\]+)"
+matches = re.findall(file_pattern, page_content)
 
-"""
+image_folder = "./images"
 
-# Step 5: Post the edit
+for match in matches:
+    filename = match[0].strip()
+    filepath = os.path.join(image_folder, filename)
+
+    if not os.path.exists(filepath):
+        print(f"Image {filename} not found in {image_folder}, skipping upload.")
+        continue
+
+    with open(filepath, "rb") as f:
+        files = {"file": (filename, f, "multipart/form-data")}
+        params = {
+            "action": "upload",
+            "filename": filename,   # wiki filename will match local filename
+            "token": csrf_token,
+            "format": "json",
+            "ignorewarnings": 1
+        }
+        res = session.post(API_URL, files=files, data=params)
+        print(f"Upload {filename}:", res.json())
+
+# --- Post the edit ---
 params = {
     "action": "edit",
     "title": page_title,
     "token": csrf_token,
     "format": "json",
     "text": page_content,
-    "summary": "Automated edit: added structured sections and image"
+    "summary": f"Automated edit from {input_file}: added content and uploaded images"
 }
 res = session.post(API_URL, data=params)
 print("Edit:", res.json())

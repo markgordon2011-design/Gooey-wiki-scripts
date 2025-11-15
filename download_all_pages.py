@@ -103,8 +103,8 @@ def main():
         page_folder = os.path.join(OUTPUT_DIR, sanitize_filename(title))
         os.makedirs(page_folder, exist_ok=True)
 
-        # Save page text
-        content_file = os.path.join(page_folder, "content.txt")
+	# Save page text with filename = title + ".txt"
+        content_file = os.path.join(page_folder, sanitize_filename(title) + ".txt")
         with open(content_file, "w", encoding="utf-8") as f:
             f.write(content)
 
